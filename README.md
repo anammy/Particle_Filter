@@ -128,6 +128,6 @@ The inputs to the particle filter are located in the `data` directory.
 
 ## Output
 
-The particle filter, as implemented in `src/particle_filter.cpp`, met the required success criteria. The following output showed the final accuray results from the simulator.
+The particle filter, as implemented in `src/particle_filter.cpp`, met the required success criteria. The following output showed the final accuracy results from the simulator.
 
 ![Simulation_Result](https://github.com/anammy/Particle_Filter/blob/master/pictures/Simulation_end.PNG)
